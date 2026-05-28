@@ -4,7 +4,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Grado_Superior-DAM-0066ff?style=flat&logo=bookstack&logoColor=white" alt="DAM">
-  <img src="https://img.shields.io/badge/Modulos-Sistemas_Informaticos_&_Entornos_de_Desarrollo-2ea44f?style=flat&logo=codeforces&logoColor=white" alt="Content">
+  <img src="https://img.shields.io/badge/Modulos-Sistemas_Informaticos-2ea44f?style=flat&logo=codeforces&logoColor=white" alt="Content">
   <img src="https://img.shields.io/badge/Estado-En_Progreso-yellow?style=flat&logo=git&logoColor=white" alt="Status">
 </p>
 
