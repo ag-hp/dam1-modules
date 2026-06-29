@@ -16,7 +16,7 @@ dam1-modules/
 ├── test/
 │   └── src/
 ├── sistemas-informaticos/
-│   ├── notas.md
+│   ├── apuntes.md
 │   └── ejercicios/
 ├── ayudas-generales.md
 └── README.md
