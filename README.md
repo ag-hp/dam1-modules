@@ -26,7 +26,6 @@ dam1-modules/
 <p align="center">
 <a href="https://aulavirtual32.educa.madrid.org/ies.tiernogalvan.madrid/login/index.php"><img src="https://img.shields.io/badge/AulaVirtual-1367ac?style=for-the-badge" /></a> 
 <a href="https://github.com/users/arpy-2/projects/7/views/2"><img src="https://img.shields.io/badge/Proyecto-FFFFFF?style=for-the-badge"/></a>     
-<a href="https://git-scm.com/install/windows"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge"/></a> 
 <a href="https://drive.google.com/drive/folders/1gEG49hdcD9mBBHCfPy_d1dT4I18EOIcH?usp=drive_link"><img src="https://img.shields.io/badge/GoogleDrive-008f39?style=for-the-badge"/></a> 
 </p>
 
