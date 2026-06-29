@@ -13,8 +13,6 @@
 
 ```text
 dam1-modules/
-├── test/
-│   └── src/
 ├── sistemas-informaticos/
 │   ├── apuntes.md
 │   └── ejercicios/
