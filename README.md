@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&h=150&q=80" width="100%" />
-  <img width="512" height="122" alt="powershell_button_icon_151870 (1)" src="https://github.com/user-attachments/assets/c08f2878-007c-46ba-aa15-4b49a0c04696" />
+  <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&h=150&q=80" c />
+  <img width="96" height="23" alt="image" src="https://github.com/user-attachments/assets/749e42ff-f886-4af7-b45b-06d16df0fba1" />
+
 </p>
 
 <p align="center">
