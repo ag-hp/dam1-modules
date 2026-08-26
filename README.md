@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?ixlib=rb-1.2.1&auto=format&fit=crop&w=1200&h=150&q=80" width="100%" />
-  <img width="512" height="122" alt="powershell_button_icon_151870 (1)" src="https://github.com/user-attachments/assets/f51f1fc7-c7af-434e-b3dd-ca4fc563ca35" />
+  <img width="512" height="122" alt="powershell_button_icon_151870 (1)" src="https://github.com/user-attachments/assets/f688f0cc-f6d8-4715-b977-7305538f5278" />
 
 </p>
 
