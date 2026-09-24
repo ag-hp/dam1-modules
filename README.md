@@ -11,15 +11,6 @@
 
 # 📂 1ºDAM - Estructura del repositorio 
 
-```text
-dam1-modules/
-├── sistemas-informaticos/
-│   ├── apuntes.md
-│   └── ejercicios/
-├── README.md
-└── ayudas-generales.md
-```
-
 ---
 
 <p align="center">  
